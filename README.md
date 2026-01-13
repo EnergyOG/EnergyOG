@@ -42,6 +42,27 @@ I am a Full Stack Software Engineer currently focused on Backend Engineering, wi
   <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
   </a>
+  <a href="https://firebase.google.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" title="Firebase"/>
+</a>
+
+<a href="https://render.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" title="Render"/>
+</a>
+
+<a href="https://www.netlify.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-colored.svg" width="36" title="Netlify"/>
+</a>
+
+<a href="https://redis.io/">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redis.svg"
+    width="36"
+    title="Redis"
+  />
+</a>
+
+
 </p>
 
 ---
@@ -58,4 +79,5 @@ I am a Full Stack Software Engineer currently focused on Backend Engineering, wi
   <a href="https://www.facebook.com/dennis.peprah.79/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" title="Facebook"/>
   </a>
+  
 </p>
