@@ -56,7 +56,7 @@ I am a Full Stack Software Engineer currently focused on Backend Engineering, wi
 
 <a href="https://redis.io/">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redis.svg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuV_aZWnhJ6Nku3SvxpJiJmJoZ7SisUshVQ&s$0"
     width="36"
     title="Redis"
   />
