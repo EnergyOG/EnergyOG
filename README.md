@@ -8,7 +8,7 @@ I am a Full Stack Software Engineer currently focused on Backend Engineering, wi
 - 🌍  Based in **Greater Accra, Ghana**
 - 🖥️  Portfolio: [My Portfolio](http://portfolio-dwo6.onrender.com)
 - ✉️  Contact: [dennis2peprah@gmail.com](mailto:dennis2peprah@gmail.com)
-- 🧠  Currently learning **System Architecture & Design**
+- 🧠  Currently learning **Cloud Computing & AI related technologies**
 - 👥  Open to collaborating on interesting projects
 - 💬  Ask me about:  
   *“I’m the underwear of your app’s outfit — you don’t see me, but without me… things get very awkward.”* 😄
