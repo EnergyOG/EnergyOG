@@ -11,7 +11,7 @@ I am a Full Stack Software Engineer currently focused on Backend Engineering, wi
 - 🧠  Currently learning **Cloud Computing & AI related technologies**
 - 👥  Open to collaborating on interesting projects
 - 💬  Ask me about:  
-  *“I’m the underwear of your app’s outfit — you don’t see me, but without me… things get very awkward.”* 😄
+  *“I'm the part of your app users rarely see, but remove me, and the whole experience unravels. What am I?”* 😄
 
 ---
 
