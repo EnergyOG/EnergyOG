@@ -138,21 +138,6 @@ A team project focused on designing and deploying highly available AWS infrastru
 
 ---
 
-## Currently Developing
-
-I’m continuously expanding my Cloud/DevOps skill set, with a focus on:
-
-* Kubernetes
-* Ansible
-* Python automation
-* Prometheus & Grafana
-* AWS cost optimization
-* Advanced CI/CD
-* Cloud security
-* Infrastructure automation
-
----
-
 ## Let's Connect
 
 <p align="left">
