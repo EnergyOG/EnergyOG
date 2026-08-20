@@ -153,8 +153,6 @@ A team project focused on designing and deploying highly available AWS infrastru
 
  **LinkedIn:** [linkedin.com/in/dennispeprah](https://www.linkedin.com/in/dennispeprah/)
 
- **Portfolio:** [My Portfolio](http://portfolio-dwo6.onrender.com)
-
 ---
 
  **Feel free to explore my repositories and projects.**
